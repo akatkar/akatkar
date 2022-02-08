@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alikatkar/)
 ![](https://komarev.com/ghpvc/?username=akatkar)
 
+[Hackerrank](https://www.hackerrank.com/alikatkar)
+
 ___
 - 🔭 I’m currently working on a Spring-boot based project with microservice architecture and a python based CLI project
 - 🌱 I’m currently learning cloud architecture
